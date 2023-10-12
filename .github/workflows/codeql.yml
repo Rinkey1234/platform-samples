@@ -74,6 +74,6 @@ jobs:
       uses: github/codeql-action/analyze@v2
 
 
-      hi all
+      hi all everyone
       with:
         category: "/language:${{matrix.language}}"
